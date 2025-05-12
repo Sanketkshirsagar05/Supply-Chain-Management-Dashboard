@@ -14,14 +14,14 @@ This project presents a comprehensive Supply Chain Management Dashboard designed
 
 ### Excel Dashboard
 
-![Excel Dashboard Screenshot 1](Screenshot/Excel Dah1.png)
+![Excel Dashboard Screenshot 1](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Excel%20Dah1.png)
 
-![Excel Dashboard Screenshot 2](Screenshot/Excel Dah2.png)
+![Excel Dashboard Screenshot 2](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Excel%20Dah2.png)
 
 ### Tableau Dashboard
 
-![Tableau Dashboard Screenshot 1](Screenshot/Tableau Dash1.png)
+![Tableau Dashboard Screenshot 1](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Tableau%20Dash1.png)
 
-![Tableau Dashboard Screenshot 2](Screenshot/Tableau Dash2.png)
+![Tableau Dashboard Screenshot 2](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Tableau%20Dash2.png)
 
 
