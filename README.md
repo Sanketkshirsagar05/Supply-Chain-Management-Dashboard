@@ -24,4 +24,10 @@ This project presents a comprehensive Supply Chain Management Dashboard designed
 
 ![Tableau Dashboard Screenshot 2](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Tableau%20Dash2.png)
 
+### Power BI Dashboard
+
+![Tableau Dashboard Screenshot 1](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Power%20BI%20Dash1.png)
+
+![Tableau Dashboard Screenshot 2](https://github.com/Sanketkshirsagar05/Supply-Chain-Management-Dashboard/blob/main/Screenshot/Power%20BI%20Dash2.png)
+
 
